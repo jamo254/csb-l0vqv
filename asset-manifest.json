@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jamo254.github.io/csb-l0vqv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jamo254.github.io/csb-l0vqv/static/js/main.8a5819d4.chunk.js",
+    "main.js.map": "https://jamo254.github.io/csb-l0vqv/static/js/main.8a5819d4.chunk.js.map",
+    "runtime-main.js": "https://jamo254.github.io/csb-l0vqv/static/js/runtime-main.66f907b7.js",
+    "runtime-main.js.map": "https://jamo254.github.io/csb-l0vqv/static/js/runtime-main.66f907b7.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://jamo254.github.io/csb-l0vqv/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://jamo254.github.io/csb-l0vqv/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://jamo254.github.io/csb-l0vqv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jamo254.github.io/csb-l0vqv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://jamo254.github.io/csb-l0vqv/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66f907b7.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8a5819d4.chunk.js"
+  ]
+}
